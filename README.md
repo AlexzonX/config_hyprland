@@ -4,17 +4,21 @@
 
 
 
-# config_hyprland<img width="2560" height="1080" alt="2026-03-11-181743" src="https://github.com/user-attachments/assets/f55f6e71-e62a-4263-a14a-319bba6b0f2f" />
-
 <img width="2560" height="1080" alt="2026-03-16-175116" src="https://github.com/user-attachments/assets/f9e32289-a2d9-40de-b877-861d32d97e51" />
 
 <img width="2560" height="1080" alt="2026-03-16-175236" src="https://github.com/user-attachments/assets/f87b13e3-a137-4c59-963b-04ec88064539" />
 
+# config_hyprland<img width="2560" height="1080" alt="2026-03-11-181743" src="https://github.com/user-attachments/assets/f55f6e71-e62a-4263-a14a-319bba6b0f2f" />
 
 
+ОБОИ ЕСТЬ У МЕНЯ В ДРУГОМ РЕПОЗИТОРИИ
+<img width="1920" height="1080" alt="07  Gruvbox Retro" src="https://github.com/user-attachments/assets/3e46e544-5e44-45cf-9c7b-4b022e941b92" />
 
+![170737-apelsin-yabloko-apple_watch-ios-kompyuter_imac-3840x2160](https://github.com/user-attachments/assets/f5792468-7620-4f7b-8919-1bb26345d3df)
 
+![176221-apelsin-dizajn-dnevnoe_vremya-priroda-lazurnyj-3840x2160](https://github.com/user-attachments/assets/4be88801-1507-44f7-a563-e36f205f46eb)
 
+![Airbrush-image-enhancer-1773599216901](https://github.com/user-attachments/assets/4afb8ea7-427e-4bd2-8525-f1b93f532014)
 
 
 ## 🔥 Горячие клавиши
