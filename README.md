@@ -14,6 +14,8 @@
 ОБОИ ЕСТЬ У МЕНЯ В ДРУГОМ РЕПОЗИТОРИИ
 <img width="1920" height="1080" alt="07  Gruvbox Retro" src="https://github.com/user-attachments/assets/3e46e544-5e44-45cf-9c7b-4b022e941b92" />
 
+<img width="1920" height="1080" alt="sunflower" src="https://github.com/user-attachments/assets/5de08d6c-cd48-444d-ac64-2027b9456c05" />
+
 ![170737-apelsin-yabloko-apple_watch-ios-kompyuter_imac-3840x2160](https://github.com/user-attachments/assets/f5792468-7620-4f7b-8919-1bb26345d3df)
 
 ![176221-apelsin-dizajn-dnevnoe_vremya-priroda-lazurnyj-3840x2160](https://github.com/user-attachments/assets/4be88801-1507-44f7-a563-e36f205f46eb)
