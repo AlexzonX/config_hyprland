@@ -6,9 +6,9 @@
 
 # config_hyprland<img width="2560" height="1080" alt="2026-03-11-181743" src="https://github.com/user-attachments/assets/f55f6e71-e62a-4263-a14a-319bba6b0f2f" />
 
+<img width="2560" height="1080" alt="2026-03-16-175116" src="https://github.com/user-attachments/assets/f9e32289-a2d9-40de-b877-861d32d97e51" />
 
-
-
+<img width="2560" height="1080" alt="2026-03-16-175236" src="https://github.com/user-attachments/assets/f87b13e3-a137-4c59-963b-04ec88064539" />
 
 
 
